@@ -4,7 +4,9 @@
 
 A React-based habit-tracking application enhanced with Firebase Analytics and Google Analytics 4 (GA4) to demonstrate a complete product analytics workflow — from event instrumentation and data validation to reporting and product insights.
 
-**Portfolio Focus:** Product Analytics · GA4 · Firebase Analytics · Event Tracking · Data Quality · User Engagement
+**Portfolio Focus:** Product Analytics · GA4 · Firebase Analytics · Event Tracking · Data Quality · User Engagement.
+
+**🚀 Live Demo:** [Open Sana Habit Tracker](https://sana-habit-tracker-firebase-ga-4.vercel.app/)
 
 ---
 
