@@ -6,7 +6,15 @@ A React-based habit-tracking application enhanced with Firebase Analytics and Go
 
 **Portfolio Focus:** Product Analytics · GA4 · Firebase Analytics · Event Tracking · Data Quality · User Engagement.
 
-**🚀 Live Demo:** [Open Sana Habit Tracker](https://sana-habit-tracker-firebase-ga-4.vercel.app/)
+### 🔗 Live Demo & Analytics
+
+Explore the app and its connected analytics dashboard to see how user interactions are tracked and reported.
+
+1. **[Open the Live Habit Tracker](https://sana-habit-tracker-firebase-ga-4.vercel.app/)** — Add habits, mark them as completed, delete habits, change themes, and explore other features.
+2. **[View the Live GA4 Analytics Dashboard](https://datastudio.google.com/s/pGIQpNet7ps)** — Explore the event counts, user engagement metrics, and custom events collected through Firebase Analytics and Google Analytics 4 (GA4), presented in Looker Studio.
+
+**How to explore the project:** Start by interacting with the live app, then open the analytics dashboard to examine the tracked activity. The dashboard provides a public, read-only view of the event analytics in GA4 without requiring access to my underlying GA4 property. New activity may take time to appear in standard reports. Also pay attention to the date range control on the dashboard as that may affect how data is displayed.
+
 
 ---
 
